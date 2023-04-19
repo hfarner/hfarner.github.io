@@ -1,0 +1,4 @@
+baseURL = 'http://hfarner.github.io/'
+languageCode = 'fr-FR'
+title = 'Mon nouveau site avec HUGO et GIT'
+theme = "hyde"
